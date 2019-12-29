@@ -1,0 +1,7 @@
+<launch>
+
+    <node pkg="hero" type="hero_42_blue" name="hero_42_blue" respawn="true"  output="screen"/>
+
+    <node pkg="hero" type="hero_17_blue" name="hero_17_blue" respawn="true"  output="screen"/>
+ 
+</launch>
